@@ -1,0 +1,16 @@
+{
+    "object1" : {
+	"really": true,
+	"really2": "true",
+	"cmon": "false",
+	"cmon2": false,
+	"whatelse": null,
+	"andthen": "null",
+	"astring": "likethis",
+	"innerobject": {
+	    "array": ["one", "two", "three"]
+	}
+    },
+    "array": [ "one", "two" ],
+    "array2": [ true, false, null]
+}

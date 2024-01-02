@@ -1,0 +1,39 @@
+{
+	"random": "12",
+	"random float": "58.088",
+	"bool": "false",
+	"date": "1995-06-21",
+	"regEx": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "online",
+	"firstname": "Dione",
+	"lastname": "Wilona",
+	"city": "Jakarta",
+	"country": "Tokelau",
+	"countryCode": "DM",
+	"email uses current data": "Dione.Wilona@gmail.com",
+	"email from expression": "Dione.Wilona@yopmail.com",
+	"array": [
+		"Adore",
+		"Carilyn",
+		"Margarette",
+		"Vita",
+		"Amalie"
+	],
+	"array of objects": [
+		{
+			"index": "0",
+			"index start at 5": "5"
+		},
+		{
+			"index": "1",
+			"index start at 5": "6"
+		},
+		{
+			"index": "2",
+			"index start at 5": "7"
+		}
+	],
+	"Hyacinthe": {
+		"age": "42"
+	}
+}
